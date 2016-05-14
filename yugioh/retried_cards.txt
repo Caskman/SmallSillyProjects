@@ -1,0 +1,433 @@
+{"status": false, "code": "11714098", "name": "30,000-Year White Turtle"}
+{"status": false, "code": "40387124", "name": "Abyss Flower"}
+{"status": false, "code": "77568553", "name": "Acid Crawler"}
+{"status": false, "code": "08353769", "name": "Air Eater"}
+{"status": false, "code": "75889523", "name": "Air Marmont of Nefariousness"}
+{"status": false, "code": "38035986", "name": "Akakieisu"}
+{"status": false, "code": "36904469", "name": "Akihiron"}
+{"status": false, "code": "70924884", "name": "Alinsection"}
+{"status": false, "code": "99785935", "name": "Alpha The Magnet Warrior Card"}
+{"status": false, "code": "91869203", "name": "Amazon Archer"}
+{"status": false, "code": "95174353", "name": "Amoeba"}
+{"status": false, "code": "81492226", "name": "Ancient Jar"}
+{"status": false, "code": "36821538", "name": "Ancient Sorcerer"}
+{"status": false, "code": "86421986", "name": "Ancient Tree of Enlightenment"}
+{"status": false, "code": "58921041", "name": "Anti-Magic Fragrance"}
+{"status": false, "code": "12436646", "name": "Aqua Snake"}
+{"status": false, "code": "14708569", "name": "Arlownay"}
+{"status": false, "code": "36151751", "name": "Arma Knight"}
+{"status": false, "code": "16246527", "name": "Armored Rat"}
+{"status": false, "code": "89832901", "name": "B. Dragon Jungle King"}
+{"status": false, "code": "67841515", "name": "Barrel Lily"}
+{"status": false, "code": "10476868", "name": "Barrel Rock"}
+{"status": false, "code": "72076281", "name": "Bat"}
+{"status": false, "code": "06103114", "name": "Beaked Snake"}
+{"status": false, "code": "50287060", "name": "Beast of Gilfer"}
+{"status": false, "code": "29616941", "name": "Beautiful Beast Trainer"}
+{"status": false, "code": "83555666", "name": "Bell of Destruction"}
+{"status": false, "code": "39256679", "name": "Beta The Magnet Warrior Card"}
+{"status": false, "code": "53606874", "name": "Big Insect"}
+{"status": false, "code": "08058240", "name": "Binding Chain"}
+{"status": false, "code": "07670542", "name": "Bio Plant"}
+{"status": false, "code": "35282433", "name": "Blue-Eyed Silver Zombie"}
+{"status": false, "code": "89631139", "name": "Blue-Eyes White Dragon Card (New Version)"}
+{"status": false, "code": "80906030", "name": "Blue-Eyes White Dragon Card (Old Version)"}
+{"status": false, "code": "12146024", "name": "Bolt Escargot"}
+{"status": false, "code": "21239280", "name": "Bone Mouse"}
+{"status": false, "code": "68963107", "name": "Boo Koo"}
+{"status": false, "code": "09540040", "name": "Boulder Tortoise"}
+{"status": false, "code": "74277583", "name": "Brave Scizzar"}
+{"status": false, "code": "82878489", "name": "Bright Castle"}
+{"status": false, "code": "78637313", "name": "Call of the Dark"}
+{"status": false, "code": "97077563", "name": "Call Of The Haunted"}
+{"status": false, "code": "47695416", "name": "Candle of Fate"}
+{"status": false, "code": "20848593", "name": "ce Water"}
+{"status": false, "code": "18914778", "name": "Change Slime"}
+{"status": false, "code": "38289717", "name": "Crawling Dragon #2"}
+{"status": false, "code": "53713014", "name": "Crazy Fish"}
+{"status": false, "code": "77998771", "name": "Crow Goblin"}
+{"status": false, "code": "57728570", "name": "Crush Card"}
+{"status": false, "code": "06400512", "name": "Cyber Commander"}
+{"status": false, "code": "80316585", "name": "Cyber Harpie"}
+{"status": false, "code": "44865098", "name": "Cyber Soldier"}
+{"status": false, "code": "323344688", "name": "Dark Chimera"}
+{"status": false, "code": "81057959", "name": "Dark Human"}
+{"status": false, "code": "13193642", "name": "Dark Plant"}
+{"status": false, "code": "89558090", "name": "Dark Prisoner"}
+{"status": false, "code": "40196604", "name": "Dark Shade"}
+{"status": false, "code": "92267489", "name": "Dark Soldier"}
+{"status": false, "code": "05388481", "name": "Darkfire Soldier #1"}
+{"status": false, "code": "78861134", "name": "Darkfire Soldier #2"}
+{"status": false, "code": "69893315", "name": "Dice Armadillo"}
+{"status": false, "code": "37043180", "name": "Dimesnional Warrior"}
+{"status": false, "code": "97843505", "name": "Djinn the Watcher of the Wind"}
+{"status": false, "code": "25882881", "name": "Dokuroizo the Grim Reaper"}
+{"status": false, "code": "00756652", "name": "Doron"}
+{"status": false, "code": "24194033", "name": "Dorover"}
+{"status": false, "code": "500445299", "name": "Dragon Capture Jr"}
+{"status": false, "code": "09197735", "name": "Dragon Statue"}
+{"status": false, "code": "84916669", "name": "Dryad"}
+{"status": false, "code": "60866277", "name": "Earth Shaker"}
+{"status": false, "code": "06367785", "name": "Eldeen"}
+{"status": false, "code": "64154377", "name": "Embryonic Beast"}
+{"status": false, "code": "11250655", "name": "Emperor of the Land and Sea"}
+{"status": false, "code": "56606928", "name": "Eternal Draught"}
+{"status": false, "code": "33396948", "name": "Exodia the Forbidden One Card"}
+{"status": false, "code": "64511793", "name": "Eyearmor"}
+{"status": false, "code": "81563416", "name": "Fairy of the Fountain"}
+{"status": false, "code": "37160778", "name": "Fairywitch"}
+{"status": false, "code": "77456781", "name": "Fiend Kraken"}
+{"status": false, "code": "68870276", "name": "Fiend Reflection #1"}
+{"status": false, "code": "02863439", "name": "Fiend Reflection #2"}
+{"status": false, "code": "22855882", "name": "Fiend Sword"}
+{"status": false, "code": "52800428", "name": "Fiend's Hand"}
+{"status": false, "code": "88435542", "name": "Fire Eye"}
+{"status": false, "code": "53581214", "name": "Fire Reaper"}
+{"status": false, "code": "53581214", "name": "Fire Reaper"}
+{"status": false, "code": "34460851", "name": "Flame Multipulator"}
+{"status": false, "code": "84834865", "name": "Flying Kamakiri #1"}
+{"status": false, "code": "03134241", "name": "Flying Kamakiri #2"}
+{"status": false, "code": "68638985", "name": "Frog The Jam"}
+{"status": false, "code": "53830602", "name": "Fungi of the Musk"}
+{"status": false, "code": "06368038", "name": "Gaia the Fierce Knoght"}
+{"status": false, "code": "11549357", "name": "Gamma The Magnet Warrior Card"}
+{"status": false, "code": "34536276", "name": "Ganigumo"}
+{"status": false, "code": "69780745", "name": "Garvas"}
+{"status": false, "code": "49370026", "name": "Genin"}
+{"status": false, "code": "95265975", "name": "Ghoul with an Appetite"}
+{"status": false, "code": "72299832", "name": "Giant Mech-Soldier"}
+{"status": false, "code": "41403766", "name": "Giant Scorpion of the Tundra"}
+{"status": false, "code": "96981563", "name": "Giant Turtle Who Feeds On Flames"}
+{"status": true, "code": "08471389", "name": "Giga-Tech Wolf", "family": "fire", "level": 4, "text": "An iron wolf with razor-sharp fangs that can penetrate any armor.", "atk": 1200, "card_type": "monster", "property": null, "type": "Machine", "def": 1400}
+{"status": false, "code": "53493204", "name": "Goddess with the Thrid Eye"}
+{"status": false, "code": "07526150", "name": "Golgoil"}
+{"status": false, "code": "11793047", "name": "Gorgon Egg"}
+{"status": false, "code": "02906250", "name": "Grappler"}
+{"status": false, "code": "27094595", "name": "Graveyard and the Hand of Invitation"}
+{"status": false, "code": "54622031", "name": "Great ammoth of Goldfine"}
+{"status": false, "code": "89272878", "name": "Guardian of the Lybyrinth"}
+{"status": false, "code": "85448931", "name": "Guardian of the Sea"}
+{"status": true, "code": "55321970", "name": "Gust Fan", "family": null, "level": null, "text": "A WIND monster equipped with this card increases its ATK by 400 points and decreases its DEF by 200 points.", "atk": null, "card_type": "spell", "property": "Equip", "type": null, "def": null}
+{"status": false, "code": "30532390", "name": "Harpie's Brother"}
+{"status": false, "code": "46718686", "name": "Hitodenchak"}
+{"status": false, "code": "10859908", "name": "Holograph"}
+{"status": false, "code": "69669405", "name": "Horn Imp"}
+{"status": false, "code": "08783685", "name": "Hourglass of Life"}
+{"status": false, "code": "15042735", "name": "Hurricail"}
+{"status": false, "code": "38982356", "name": "Hyo"}
+{"status": false, "code": "20848593", "name": "Ice Water"}
+{"status": false, "code": "81686058", "name": "Ill Witch"}
+{"status": false, "code": "32809211", "name": "Jinzo #7"}
+{"status": false, "code": "55337339", "name": "Job-Change Mirror"}
+{"status": false, "code": "76634149", "name": "Kairyu-Shin"}
+{"status": false, "code": "68928540", "name": "Kamakiriman"}
+{"status": false, "code": "15510988", "name": "Kaminarikozou"}
+{"status": false, "code": "84103702", "name": "Kanikabuto"}
+{"status": false, "code": "48109103", "name": "Kappa Avenger"}
+{"status": false, "code": "81179446", "name": "Kattapillar"}
+{"status": false, "code": "20541432", "name": "Key Mace #2"}
+{"status": false, "code": "84103702", "name": "Kinikabuto"}
+{"status": false, "code": "32569498", "name": "Korogashi"}
+{"status": false, "code": "76512652", "name": "Krokodilus"}
+{"status": false, "code": "60802233", "name": "Kuwagata A"}
+{"status": false, "code": "97590747", "name": "La Jinn"}
+{"status": false, "code": "09430387", "name": "LaLa Li-oon"}
+{"status": false, "code": "75850803", "name": "LaMoon"}
+{"status": false, "code": "42591472", "name": "Laughing Flower"}
+{"status": false, "code": "87322377", "name": "Laughing Spider"}
+{"status": false, "code": "07902349", "name": "Left Arm of the Forbidden One Card"}
+{"status": false, "code": "44519536", "name": "Left Leg of the Forbidden One Card"}
+{"status": false, "code": "66131467", "name": "Light Soldier"}
+{"status": false, "code": "55210709", "name": "Lisark"}
+{"status": false, "code": "34320307", "name": "Living Vase"}
+{"status": false, "code": "17985575", "name": "Lord of D"}
+{"status": false, "code": "81618817", "name": "Lord of Zemina"}
+{"status": false, "code": "03985011", "name": "Lucky Trinket"}
+{"status": false, "code": "62210247", "name": "Lunar Queen Elzaim"}
+{"status": false, "code": "56342351", "name": "M-Warrior"}
+{"status": false, "code": "98795934", "name": "Mabarrel"}
+{"status": false, "code": "38116136", "name": "Machine Attacker"}
+{"status": false, "code": "43905751", "name": "Madjinn Gunn"}
+{"status": false, "code": "53119267", "name": "Magic Thorn"}
+{"status": false, "code": "96008713", "name": "Magic-Arm Shield"}
+{"status": false, "code": "80727036", "name": "Man-Eating Black Shark"}
+{"status": false, "code": "49127943", "name": "Man-Eating Plant"}
+{"status": false, "code": "38369349", "name": "Manga Ryu Ran"}
+{"status": false, "code": "29929832", "name": "Marine Beast"}
+{"status": false, "code": "77581312", "name": "Masked Clown"}
+{"status": false, "code": "75499502", "name": "Master and Expert"}
+{"status": false, "code": "50176820", "name": "Mech Bass"}
+{"status": false, "code": "63545455", "name": "Mech Mole Zombie"}
+{"status": false, "code": "94412545", "name": "Mechaleon"}
+{"status": false, "code": "45688586", "name": "Mechanical Spider"}
+{"status": false, "code": "23032273", "name": "Megirus Light"}
+{"status": false, "code": "44656491", "name": "Messager of Peace"}
+{"status": false, "code": "83678433", "name": "Midnight Fiend"}
+{"status": false, "code": "46864967", "name": "Minomushi Warrior"}
+{"status": false, "code": "07225792", "name": "Mon Larvas"}
+{"status": false, "code": "35712107", "name": "Monstrous Bird"}
+{"status": false, "code": "15820147", "name": "Monsturtle"}
+{"status": true, "code": "33508719", "name": "Morphing Jar", "family": "earth", "level": 2, "text": "FLIP: Both players discard their entire hands, then draw 5 cards.", "atk": 700, "card_type": "monster", "property": null, "type": "Rock / Effect", "def": 600}
+{"status": true, "code": "79106360", "name": "Morphing Jar 2", "family": "earth", "level": 3, "text": "FLIP: Shuffle all monsters on the field into the Deck. Then, each player excavates cards from the top of their Deck, until they excavate the same number of monsters they shuffled into their Main Deck. Special Summon all excavated Level 4 or lower monsters in face-down Defense Position, also send the remaining cards to the Graveyard.", "atk": 800, "card_type": "monster", "property": null, "type": "Rock / Effect", "def": 700}
+{"status": false, "code": "04931562", "name": "Mountain warrior"}
+{"status": false, "code": "31477025", "name": "Mr. valcano"}
+{"status": false, "code": "69992868", "name": "Muse-A"}
+{"status": true, "code": "14181608", "name": "Mushroom Man", "family": "earth", "level": 2, "text": "Found in humid regions, this creature attacks enemies with a lethal rain of poison spores.", "atk": 800, "card_type": "monster", "property": null, "type": "Plant", "def": 600}
+{"status": true, "code": "93900406", "name": "Mushroom Man 2", "family": "earth", "level": 3, "text": "A player controlling this monster loses 300 Life Points during each of his/her Standby Phases when this card is face-up on the field. Control of this card is shifted to your opponent by paying 500 Life Points at your own End Phase.", "atk": 1250, "card_type": "monster", "property": null, "type": "Warrior / Effect", "def": 800}
+{"status": true, "code": "56907389", "name": "Musician King", "family": "light", "level": 5, "text": "\"Witch of the Black Forest\" + \"Lady of Faith\"", "atk": 1750, "card_type": "monster", "property": null, "type": "Spellcaster / Fusion", "def": 1500}
+{"status": true, "code": "54098121", "name": "Mysterious Puppeteer", "family": "earth", "level": 4, "text": "Each time you or your opponent Normal Summons or Flip Summons a monster, increase your Life Points by 500 points.", "atk": 1000, "card_type": "monster", "property": null, "type": "Warrior / Effect", "def": 1500}
+{"status": false, "code": "62793020", "name": "Mystery Hand"}
+{"status": true, "code": "98049915", "name": "Mystic Lamp", "family": "dark", "level": 1, "text": "This monster can attack your opponent's Life Points directly.", "atk": 400, "card_type": "monster", "property": null, "type": "Spellcaster / Effect", "def": 300}
+{"status": true, "code": "18161786", "name": "Mystic Plasma Zone", "family": null, "level": null, "text": "Increase the ATK of all DARK monsters by 500 points and decreases their DEF by 400 points.", "atk": null, "card_type": "spell", "property": "Field", "type": null, "def": null}
+{"status": true, "code": "49251811", "name": "Mystic Probe", "family": null, "level": null, "text": "You can only activate this card when a Continuous Spell Card is activated. Negate all Continuous Spell Cards during the turn this card is activated.", "atk": null, "card_type": "trap", "property": "Normal", "type": null, "def": null}
+{"status": true, "code": "83011277", "name": "Mystic Tomato", "family": "dark", "level": 4, "text": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 DARK monster with 1500 or less ATK from your Deck, in face-up Attack Position.", "atk": 1400, "card_type": "monster", "property": null, "type": "Plant / Effect", "def": 1100}
+{"status": false, "code": "63515678", "name": "Mystical capture chain"}
+{"status": true, "code": "36607978", "name": "Mystical Moon", "family": null, "level": null, "text": "Equip only to a Beast-Warrior-Type monster. It gains 300 ATK and DEF.", "atk": null, "card_type": "spell", "property": "Equip", "type": null, "def": null}
+{"status": true, "code": "32751480", "name": "Mystical Sand", "family": "earth", "level": 6, "text": "\"Giant Soldier of Stone\" + \"Ancient Elf\"", "atk": 2100, "card_type": "monster", "property": null, "type": "Rock / Fusion", "def": 1700}
+{"status": false, "code": "30451366", "name": "Mystical sheep"}
+{"status": true, "code": "83464209", "name": "Mystical Sheep 2", "family": "earth", "level": 3, "text": "A monstrous sheep with a long tail for hypnotizing enemies.", "atk": 800, "card_type": "monster", "property": null, "type": "Beast", "def": 1000}
+{"status": true, "code": "05318639", "name": "Mystical Space Typhoon", "family": null, "level": null, "text": "Target 1 Spell/Trap Card on the field; destroy that target.", "atk": null, "card_type": "spell", "property": "Quick-Play", "type": null, "def": null}
+{"status": false, "code": "70084224", "name": "Neck Hunter"}
+{"status": true, "code": "94230224", "name": "Needle Ball", "family": "dark", "level": 2, "text": "FLIP: You can pay 2000 Life Points to inflict 1000 damage to your opponent.", "atk": 750, "card_type": "monster", "property": null, "type": "Fiend / Effect", "def": 700}
+{"status": true, "code": "81843628", "name": "Needle Worm", "family": "earth", "level": 2, "text": "FLIP: Send the top 5 cards of your opponent's Deck to the Graveyard.", "atk": 750, "card_type": "monster", "property": null, "type": "Insect / Flip", "def": 600}
+{"status": true, "code": "14315573", "name": "Negate Attack", "family": null, "level": null, "text": "When an opponent's monster declares an attack: Target the attacking monster; negate the attack, then end the Battle Phase.", "atk": null, "card_type": "trap", "property": "Counter", "type": null, "def": null}
+{"status": false, "code": "01761063", "name": "Nekogal"}
+{"status": false, "code": "50930991", "name": "Neo the magic swordsman"}
+{"status": false, "code": "78402798", "name": "Night Lizard"}
+{"status": false, "code": "88643173", "name": "Nightmare Scorpion"}
+{"status": false, "code": "71044499", "name": "Nobleman of crossout"}
+{"status": false, "code": "17449108", "name": "Nobleman of extermination"}
+{"status": true, "code": "02130625", "name": "Numinous Healer", "family": null, "level": null, "text": "You can only activate this card when you take damage to your Life Points. Increase your Life Points by 1000 points. Also, increase your Life Points by 500 points for each \"Numinous Healer\" card in your Graveyard.", "atk": null, "card_type": "trap", "property": "Normal", "type": null, "def": null}
+{"status": false, "code": "45121025", "name": "Ogre of the black shadow"}
+{"status": false, "code": "03606209", "name": "One Who Hunts Souls"}
+{"status": true, "code": "33064647", "name": "One-Eyed Shield Dragon", "family": "wind", "level": 3, "text": "This dragon wears a shield not only for its own protection, but also for ramming its enemies.", "atk": 700, "card_type": "monster", "property": null, "type": "Dragon", "def": 1300}
+{"status": false, "code": "02971090", "name": "Orion the battle king"}
+{"status": true, "code": "82065276", "name": "Oscillo Hero", "family": "earth", "level": 3, "text": "A strange warrior from another dimension.", "atk": 1250, "card_type": "monster", "property": null, "type": "Warrior", "def": 700}
+{"status": false, "code": "27324313", "name": "Oscillo hero 2"}
+{"status": true, "code": "74191942", "name": "Painful Choice", "family": null, "level": null, "text": "Select 5 cards from your Deck and show them to your opponent. Your opponent selects 1 card among them. Add that card to your hand and discard the remaining cards to<!--@@@Check this card's Card Errata page first, before trying to correct this lore.@@@--> the Graveyard.", "atk": null, "card_type": "spell", "property": "Normal", "type": null, "def": null}
+{"status": true, "code": "21263083", "name": "Pale Beast", "family": "earth", "level": 4, "text": "With skin tinged a bluish-white, this strange creature is a fearsome sight to behold.", "atk": 1500, "card_type": "monster", "property": null, "type": "Beast", "def": 1200}
+{"status": true, "code": "42035044", "name": "Panther Warrior", "family": "earth", "level": 4, "text": "This card cannot declare an attack unless you Tribute 1 monster.", "atk": 2000, "card_type": "monster", "property": null, "type": "Beast-Warrior / Effect", "def": 1600}
+{"status": true, "code": "50152549", "name": "Paralyzing Potion", "family": null, "level": null, "text": "A non Machine-Type monster equipped with this card cannot attack.", "atk": null, "card_type": "spell", "property": "Equip", "type": null, "def": null}
+{"status": true, "code": "27911549", "name": "Parasite Paracide", "family": "earth", "level": 2, "text": "FLIP: Put this card face-up in your opponent's Deck and shuffle it. When your opponent draws this card, it is Special Summoned to their side of the field in face-up Defense Position, and inflicts 1000 damage to them. Then, while this card is face-up on the field, all monsters your opponent controls become Insect-Type monsters.", "atk": 500, "card_type": "monster", "property": null, "type": "Insect / Effect", "def": 300}
+{"status": true, "code": "62762898", "name": "Parrot Dragon", "family": "wind", "level": 5, "text": "A dragon from the cartoons that's more dangerous than it appears to be.", "atk": 2000, "card_type": "monster", "property": null, "type": "Dragon", "def": 1300}
+{"status": true, "code": "76775123", "name": "Patrol Robo", "family": "earth", "level": 3, "text": "During your Standby Phase, you can look at 1 face-down card that's been Set by your opponent as long as this card remains face-up on the field.", "atk": 1100, "card_type": "monster", "property": null, "type": "Machine / Effect", "def": 900}
+{"status": true, "code": "24433920", "name": "Pendulum Machine", "family": "dark", "level": 6, "text": "A horrible torture machine with a large pendulum blade.", "atk": 1750, "card_type": "monster", "property": null, "type": "Machine", "def": 2000}
+{"status": true, "code": "36039163", "name": "Penguin Knight", "family": "water", "level": 3, "text": "When this card is sent directly from your Deck to the Graveyard by an effect of a card controlled by your opponent, unite your Graveyard cards and your own Deck, shuffle them and form a new Deck.", "atk": 900, "card_type": "monster", "property": null, "type": "Aqua / Effect", "def": 800}
+{"status": true, "code": "93920745", "name": "Penguin Soldier", "family": "water", "level": 2, "text": "FLIP: You can target up to 2 monsters on the field; return those targets to the hand.", "atk": 750, "card_type": "monster", "property": null, "type": "Aqua / Effect", "def": 500}
+{"status": true, "code": "38142739", "name": "Petit Angel", "family": "light", "level": 3, "text": "A quick-moving and tiny fairy that's very difficult to hit.", "atk": 600, "card_type": "monster", "property": null, "type": "Fairy", "def": 900}
+{"status": true, "code": "75356564", "name": "Petit Dragon", "family": "wind", "level": 2, "text": "A very small dragon known for its vicious attacks.", "atk": 600, "card_type": "monster", "property": null, "type": "Dragon", "def": 700}
+{"status": true, "code": "58192742", "name": "Petit Moth", "family": "earth", "level": 1, "text": "This small but deadly creature is better off avoided.", "atk": 300, "card_type": "monster", "property": null, "type": "Insect", "def": 200}
+{"status": false, "code": "77603950", "name": "Phantom Dewan"}
+{"status": false, "code": "61201220", "name": "Phantom Ghost"}
+{"status": false, "code": "55567161", "name": "Pot the Trick"}
+{"status": false, "code": "77027445", "name": "Power of kaishin"}
+{"status": true, "code": "70828912", "name": "Premature Burial", "family": null, "level": null, "text": "Activate this card by paying 800 LP, then target 1 monster in your Graveyard; Special Summon that target in Attack Position and equip it with this card. When this card is destroyed, destroy the equipped monster.", "atk": null, "card_type": "spell", "property": "Equip", "type": null, "def": null}
+{"status": true, "code": "00549481", "name": "Prevent Rat", "family": "earth", "level": 4, "text": "This creature is shielded with a tough hide of hair and is excellent at defending itself.", "atk": 500, "card_type": "monster", "property": null, "type": "Beast", "def": 2000}
+{"status": false, "code": "10071456", "name": "Protector of the throne"}
+{"status": false, "code": "29155212", "name": "Pumpking the king of ghosts"}
+{"status": true, "code": "74703140", "name": "Punished Eagle", "family": "wind", "level": 6, "text": "\"Blue-Winged Crown\" + \"Niwatori\"", "atk": 2100, "card_type": "monster", "property": null, "type": "Winged Beast / Fusion", "def": 1800}
+{"status": true, "code": "73081602", "name": "Queen Bird", "family": "wind", "level": 5, "text": "This monster attacks enemies using its huge beak.", "atk": 1200, "card_type": "monster", "property": null, "type": "Winged Beast", "def": 2000}
+{"status": false, "code": "04179849", "name": "Queen of autumn leaves"}
+{"status": false, "code": "05901497", "name": "Queen's double"}
+{"status": true, "code": "21347810", "name": "Rainbow Flower", "family": "earth", "level": 2, "text": "This monster may attack your opponent's Life Points directly.", "atk": 400, "card_type": "monster", "property": null, "type": "Plant / Effect", "def": 500}
+{"status": false, "code": "29402771", "name": "Rainbow Marine Mermaid"}
+{"status": true, "code": "51267887", "name": "Raise Body Heat", "family": null, "level": null, "text": "A Dinosaur-Type monster equipped with this card increases its ATK and DEF by 300 points.", "atk": null, "card_type": "spell", "property": "Equip", "type": null, "def": null}
+{"status": false, "code": "80516007", "name": "Rare fish"}
+{"status": false, "code": "85309439", "name": "Ray and tempeture"}
+{"status": false, "code": "33066139", "name": "Reaper of the cards"}
+{"status": true, "code": "65570596", "name": "Red Archery Girl", "family": "water", "level": 4, "text": "A mermaid archer that hides in a protective shell, waiting for the right moment to strike.", "atk": 1400, "card_type": "monster", "property": null, "type": "Aqua", "def": 1500}
+{"status": false, "code": "38199696", "name": "Red madicine"}
+{"status": false, "code": "74677422", "name": "Red-Eyes B. (Black) Dragon Card"}
+{"status": false, "code": "64335804", "name": "Red-Eyes Black Metal Dragon Card"}
+{"status": false, "code": "56387350", "name": "Red-Moon Baby"}
+{"status": true, "code": "51482758", "name": "Remove Trap", "family": null, "level": null, "text": "Select 1 face-up Trap Card on the field and destroy it.", "atk": null, "card_type": "spell", "property": "Normal", "type": null, "def": null}
+{"status": true, "code": "08951260", "name": "Respect Play", "family": null, "level": null, "text": "During their respective turns, each player must show their opponent their hand.", "atk": null, "card_type": "trap", "property": "Continuous", "type": null, "def": null}
+{"status": true, "code": "99518961", "name": "Restructer Revolution", "family": null, "level": null, "text": "Inflict 200 points of damage to your opponent's Life Points for each card in your opponent's hand.", "atk": null, "card_type": "spell", "property": "Normal", "type": null, "def": null}
+{"status": true, "code": "77622396", "name": "Reverse Trap", "family": null, "level": null, "text": "Until the End Phase, all effects that add or subtract ATK or DEF are reversed. (Additions now subtract, and subtractions now add, instead. Multiplications and divisions, including halving/doubling, are not affected.)", "atk": null, "card_type": "trap", "property": "Normal", "type": null, "def": null}
+{"status": false, "code": "62403074", "name": "Rhaimundos of the red sword"}
+{"status": false, "code": "70903634", "name": "Right arm of the forbidden one"}
+{"status": false, "code": "70903634", "name": "Right Arm of the Forbidden One Card"}
+{"status": false, "code": "08124921", "name": "Right leg of the forbidden one"}
+{"status": false, "code": "08124921", "name": "Right Leg of the Forbidden One Card"}
+{"status": false, "code": "20436034", "name": "Ring of magnetism"}
+{"status": true, "code": "45778932", "name": "Rising Air Current", "family": null, "level": null, "text": "All WIND monsters gain 500 ATK and lose 400 DEF.", "atk": null, "card_type": "spell", "property": "Field", "type": null, "def": null}
+{"status": true, "code": "19066538", "name": "Roaring Ocean Snake", "family": "water", "level": 6, "text": "\"Mystic Lamp\" + \"Hyosube\"", "atk": 2100, "card_type": "monster", "property": null, "type": "Aqua / Fusion", "def": 1800}
+{"status": true, "code": "88279736", "name": "Robbin' Goblin", "family": null, "level": null, "text": "Each time a monster you control inflicts Battle Damage to your opponent, your opponent discards 1 random card.", "atk": null, "card_type": "trap", "property": "Continuous", "type": null, "def": null}
+{"status": false, "code": "68846917", "name": "Rock ogre grotto"}
+{"status": false, "code": "82818645", "name": "Rock Spirit"}
+{"status": true, "code": "39004808", "name": "Root Water", "family": "water", "level": 3, "text": "An amphibian capable of calling up a massive tidal wave from the dark seas to wipe out enemy monsters.", "atk": 900, "card_type": "monster", "property": null, "type": "Fish", "def": 800}
+{"status": false, "code": "32485271", "name": "Rose spectre of dunn"}
+{"status": true, "code": "51452091", "name": "Royal Decree", "family": null, "level": null, "text": "Negate all other Trap Card effects on the field.", "atk": null, "card_type": "trap", "property": "Continuous", "type": null, "def": null}
+{"status": false, "code": "39239728", "name": "Royal guard"}
+{"status": true, "code": "26378150", "name": "Rude Kaiser", "family": "earth", "level": 5, "text": "With an axe in each hand, this monster delivers heavy damage.", "atk": 1800, "card_type": "monster", "property": null, "type": "Beast-Warrior", "def": 1600}
+{"status": true, "code": "70046172", "name": "Rush Recklessly", "family": null, "level": null, "text": "Target 1 face-up monster on the field; it gains 700 ATK until the end of this turn.", "atk": null, "card_type": "spell", "property": "Quick-Play", "type": null, "def": null}
+{"status": true, "code": "15303296", "name": "Ryu-Kishin", "family": "dark", "level": 3, "text": "A very elusive creature that looks like a harmless statue until it attacks.", "atk": 1000, "card_type": "monster", "property": null, "type": "Fiend", "def": 500}
+{"status": false, "code": "73911410", "name": "Saber slasher"}
+{"status": false, "code": "66602787", "name": "Saggi the dark clown"}
+{"status": true, "code": "73051941", "name": "Sand Stone", "family": "earth", "level": 5, "text": "Appears from underground and attacks with long, snake-like tentacles.", "atk": 1300, "card_type": "monster", "property": null, "type": "Rock", "def": 1600}
+{"status": true, "code": "71746462", "name": "Sea Kamen", "family": "water", "level": 4, "text": "A merciless monster that tears opponents to shreds with razor-like claws.", "atk": 1100, "card_type": "monster", "property": null, "type": "Aqua", "def": 1300}
+{"status": false, "code": "23659124", "name": "Sea king dragon"}
+{"status": false, "code": "97809599", "name": "Seal of the ancients"}
+{"status": false, "code": "22537443", "name": "Sebek's blessing"}
+{"status": false, "code": "15507080", "name": "Sectarian of secrets"}
+{"status": false, "code": "23401839", "name": "Senju of the thousand hands"}
+{"status": false, "code": "82742611", "name": "Serpent Marauder"}
+{"status": false, "code": "03819470", "name": "Seven tools of the bandit"}
+{"status": false, "code": "40575313", "name": "Shadow specter"}
+{"status": false, "code": "56830749", "name": "Share the pain"}
+{"status": false, "code": "52097679", "name": "Shield and sword"}
+{"status": false, "code": "95956346", "name": "Shining fairy"}
+{"status": true, "code": "71950093", "name": "Shovel Crusher", "family": "earth", "level": 3, "text": "Armed with a pair of shovels, this monster will destroy anything that stands in its way.", "atk": 900, "card_type": "monster", "property": null, "type": "Machine", "def": 1200}
+{"status": false, "code": "01557499", "name": "Silver bow and arrow"}
+{"status": true, "code": "08131171", "name": "Sinister Serpent", "family": "water", "level": 1, "text": "During your Standby Phase, if this card is in your Graveyard: You can add it to your hand, also banish 1 \"Sinister Serpent\" from your Graveyard during your opponent's next End Phase. You can only use this effect of \"Sinister Serpent\" once per turn.", "atk": 300, "card_type": "monster", "property": null, "type": "Reptile / Effect", "def": 250}
+{"status": true, "code": "00126218", "name": "Skull Dice", "family": null, "level": null, "text": "Roll a six-sided die. All monsters your opponent currently controls lose ATK and DEF equal to the result x 100, until the End Phase.", "atk": null, "card_type": "trap", "property": "Normal", "type": null, "def": null}
+{"status": true, "code": "10202894", "name": "Skull Red Bird", "family": "wind", "level": 4, "text": "This monster swoops down and attacks with a rain of knives stored in its wings.", "atk": 1550, "card_type": "monster", "property": null, "type": "Winged Beast", "def": 1200}
+{"status": true, "code": "54844990", "name": "Skull Stalker", "family": "dark", "level": 3, "text": "Foist he's gonna grab yer monstah wit' his claws, den attack again wit' his poizin stingah!", "atk": 900, "card_type": "monster", "property": null, "type": "Warrior", "def": 800}
+{"status": false, "code": "08327462", "name": "Skullbird"}
+{"status": true, "code": "40200834", "name": "Sleeping Lion", "family": "earth", "level": 4, "text": "A ferocious animal that sleeps all day. Sometimes it's better to let Sleeping Lions lie.", "atk": 700, "card_type": "monster", "property": null, "type": "Beast", "def": 1700}
+{"status": true, "code": "03797883", "name": "Slot Machine", "family": "dark", "level": 7, "text": "The machine's ability is said to vary according to its slot results.", "atk": 2000, "card_type": "monster", "property": null, "type": "Machine", "def": 2300}
+{"status": true, "code": "00596051", "name": "Snake Fang", "family": null, "level": null, "text": "Decrease 1 selected monster's DEF by 500 points during the turn this card is activated.", "atk": null, "card_type": "trap", "property": "Normal", "type": null, "def": null}
+{"status": false, "code": "29802344", "name": "Snakeyashi"}
+{"status": true, "code": "45986603", "name": "Snatch Steal", "family": null, "level": null, "text": "Equip only to a monster your opponent controls. Take control of the equipped monster. During each of your opponent's Standby Phases: They gain 1000 Life Points.", "atk": null, "card_type": "spell", "property": "Equip", "type": null, "def": null}
+{"status": true, "code": "41420027", "name": "Solemn Judgment", "family": null, "level": null, "text": "When a monster would be Summoned, OR a Spell/Trap Card is activated: Pay half your Life Points; negate the Summon or activation, and if you do, destroy that card.", "atk": null, "card_type": "trap", "property": "Counter", "type": null, "def": null}
+{"status": false, "code": "84794011", "name": "Solitude"}
+{"status": false, "code": "23471572", "name": "Solomon's lawbook"}
+{"status": true, "code": "57617178", "name": "Sonic Bird", "family": "wind", "level": 4, "text": "When this card is Normal or Flip Summoned, you can add 1 Ritual Spell Card from your Deck to your hand.", "atk": 1400, "card_type": "monster", "property": null, "type": "Winged Beast / Effect", "def": 1000}
+{"status": true, "code": "38942059", "name": "Sonic Maid", "family": "earth", "level": 3, "text": "A maiden that uses sound to her advantage, she wields a scythe that's shaped like a musical note.", "atk": 1200, "card_type": "monster", "property": null, "type": "Warrior", "def": 900}
+{"status": true, "code": "72869010", "name": "Soul Hunter", "family": "dark", "level": 6, "text": "\"Lord of the Lamp\" + \"Invader from Another Dimension\"", "atk": 2200, "card_type": "monster", "property": null, "type": "Fiend / Fusion", "def": 1800}
+{"status": false, "code": "47852924", "name": "Soul of the pure"}
+{"status": true, "code": "58551308", "name": "Spear Cretin", "family": "dark", "level": 2, "text": "FLIP: When this card is sent to the Graveyard after being flipped, each player selects 1 monster from their Graveyard, and Special Summons it in face-up Attack Position or face-down Defense Position.", "atk": 500, "card_type": "monster", "property": null, "type": "Fiend / Effect", "def": 500}
+{"status": true, "code": "18807108", "name": "Spellbinding Circle", "family": null, "level": null, "text": "Activate this card by targeting 1 monster your opponent controls; it cannot attack or change its battle position. When that monster is destroyed, destroy this card.", "atk": null, "card_type": "trap", "property": "Continuous", "type": null, "def": null}
+{"status": true, "code": "85326399", "name": "Spike Seadra", "family": "water", "level": 5, "text": "Using the spikes sprouting from its body, this creature stabs its opponents and floods them with electricity.", "atk": 1600, "card_type": "monster", "property": null, "type": "Sea Serpent", "def": 1300}
+{"status": false, "code": "98075147", "name": "Spiked Snail"}
+{"status": false, "code": "14037717", "name": "Spirit of the books"}
+{"status": false, "code": "80770678", "name": "Spirit of the harp"}
+{"status": false, "code": "34690519", "name": "Spirit of the Mountain"}
+{"status": false, "code": "54615781", "name": "Spirit of the Winds"}
+{"status": false, "code": "21323861", "name": "Stain storm"}
+{"status": true, "code": "08201910", "name": "Star Boy", "family": "water", "level": 2, "text": "As long as this card remains face-up on the field, increase the ATK of all WATER monsters by 500 points and decrease the ATK of all FIRE monsters by 400 points.", "atk": 550, "card_type": "monster", "property": null, "type": "Aqua / Effect", "def": 500}
+{"status": false, "code": "29172562", "name": "Steel ogre grotto"}
+{"status": true, "code": "90908427", "name": "Steel Ogre Grotto 2", "family": "earth", "level": 6, "text": "A mechanized iron doll with tremendous strength.", "atk": 1900, "card_type": "monster", "property": null, "type": "Machine", "def": 2200}
+{"status": true, "code": "02370081", "name": "Steel Shell", "family": null, "level": null, "text": "A WATER monster equipped with this card increases its ATK by 400 points and decreases its DEF by 200 points.", "atk": null, "card_type": "spell", "property": "Equip", "type": null, "def": null}
+{"status": true, "code": "83225447", "name": "Stim-Pack", "family": null, "level": null, "text": "The equipped monster gains 700 ATK. During each of your Standby Phases, the equipped monster loses 200 ATK.", "atk": null, "card_type": "spell", "property": "Equip", "type": null, "def": null}
+{"status": true, "code": "63432835", "name": "Stone Armadiller", "family": "earth", "level": 3, "text": "Dis stone crittah's got rock-hahd fur. Dat gives him some really good dee-fense!", "atk": 800, "card_type": "monster", "property": null, "type": "Rock", "def": 1200}
+{"status": false, "code": "68171737", "name": "Stone D."}
+{"status": false, "code": "72269672", "name": "Stone Ghost"}
+{"status": true, "code": "15023985", "name": "Stone Ogre Grotto", "family": "earth", "level": 5, "text": "A behemoth shaped by giant boulders.", "atk": 1600, "card_type": "monster", "property": null, "type": "Rock", "def": 1500}
+{"status": true, "code": "63102017", "name": "Stop Defense", "family": null, "level": null, "text": "Select 1 Defense Position monster on your opponent's side of the field and change it to Attack Position.", "atk": null, "card_type": "spell", "property": "Normal", "type": null, "def": null}
+{"status": true, "code": "71068263", "name": "Stuffed Animal", "family": "earth", "level": 3, "text": "It may look like a harmless stuffed animal, but its zipper mouth deals a deadly bite.", "atk": 1200, "card_type": "monster", "property": null, "type": "Warrior", "def": 900}
+{"status": true, "code": "55291359", "name": "Succubus Knight", "family": "dark", "level": 5, "text": "A warrior wizard adept in casting bone-chilling spells.", "atk": 1650, "card_type": "monster", "property": null, "type": "Warrior", "def": 1300}
+{"status": true, "code": "70781052", "name": "Summoned Skull", "family": "dark", "level": 6, "text": "A fiend with dark powers for confusing the enemy. Among the Fiend-Type monsters, this monster boasts considerable force.\n(This card is always treated as an \"Archfiend\" card.)", "atk": 2500, "card_type": "monster", "property": null, "type": "Fiend", "def": 1200}
+{"status": false, "code": "41422426", "name": "Supporter in the shadows"}
+{"status": true, "code": "40453765", "name": "Swamp Battleguard", "family": "earth", "level": 5, "text": "This card gains 500 ATK for each \"Lava Battleguard\" you control.", "atk": 1800, "card_type": "monster", "property": null, "type": "Warrior / Effect", "def": 1500}
+{"status": false, "code": "13069066", "name": "Sword arm of dragon"}
+{"status": false, "code": "37120512", "name": "Sword of dark destruction"}
+{"status": false, "code": "61405855", "name": "Sword of dragon's soul"}
+{"status": false, "code": "85255550", "name": "Swordsman from a foreign land"}
+{"status": false, "code": "75646173", "name": "Synchar"}
+{"status": false, "code": "43641473", "name": "Tailor of the fickle"}
+{"status": false, "code": "46247516", "name": "Tao the chanter"}
+{"status": false, "code": "00732302", "name": "Temple of skulls"}
+{"status": false, "code": "57935140", "name": "Tenderness"}
+{"status": false, "code": "60715406", "name": "Tentacle Plant"}
+{"status": false, "code": "63308047", "name": "Terra the terrible"}
+{"status": false, "code": "52367652", "name": "That Which Feeds on Life"}
+{"status": false, "code": "24348204", "name": "The bewitching phantom thief"}
+{"status": true, "code": "41142615", "name": "The Cheerful Coffin", "family": null, "level": null, "text": "Discard up to 3 Monster Cards from your hand to the Graveyard.", "atk": null, "card_type": "spell", "property": "Normal", "type": null, "def": null}
+{"status": false, "code": "08944575", "name": "The drdek"}
+{"status": false, "code": "34694160", "name": "The eye of truth"}
+{"status": false, "code": "43973174", "name": "The flute of summoning dragon"}
+{"status": true, "code": "42829885", "name": "The Forceful Sentry", "family": null, "level": null, "text": "Look at your opponent's hand. Select 1 card among them and return it to his/her Deck. The Deck is then shuffled.", "atk": null, "card_type": "spell", "property": "Normal", "type": null, "def": null}
+{"status": true, "code": "18710707", "name": "The Furious Sea King", "family": "water", "level": 3, "text": "Grand King of the Seven Seas, he's able to summon massive tidal waves to drown the enemy.", "atk": 800, "card_type": "monster", "property": null, "type": "Aqua", "def": 700}
+{"status": false, "code": "84926738", "name": "The immortal of thunder"}
+{"status": true, "code": "81820689", "name": "The Inexperienced Spy", "family": null, "level": null, "text": "Select and see 1 card in your opponent's hand.", "atk": null, "card_type": "spell", "property": "Normal", "type": null, "def": null}
+{"status": false, "code": "25109950", "name": "The little swordsman of aile"}
+{"status": false, "code": "98898173", "name": "The Melting Red Shadow"}
+{"status": false, "code": "00296499", "name": "The regulation of tribe"}
+{"status": true, "code": "16430187", "name": "The Reliable Guardian", "family": null, "level": null, "text": "Increase 1 face-up monster's DEF by 700 points until the end of this turn.", "atk": null, "card_type": "spell", "property": "Quick-Play", "type": null, "def": null}
+{"status": false, "code": "63125616", "name": "The Shadow Who Controls the Dark"}
+{"status": true, "code": "29491031", "name": "The Snake Hair", "family": "dark", "level": 4, "text": "A monster with a head of poison snakes. One look from this monster can turn an opponent to stone.", "atk": 1500, "card_type": "monster", "property": null, "type": "Zombie", "def": 1200}
+{"status": true, "code": "87557188", "name": "The Stern Mystic", "family": "light", "level": 4, "text": "FLIP: All face-down cards on the field are turned face-up, and then returned to their original positions. No card effects are activated when cards are turned face-up.", "atk": 1500, "card_type": "monster", "property": null, "type": "Spellcaster / Effect", "def": 1200}
+{"status": false, "code": "18180762", "name": "The thing that hides in the mud"}
+{"status": true, "code": "51275027", "name": "The Unhappy Maiden", "family": "light", "level": 1, "text": "When this card is sent to the Graveyard as a result of battle, the Battle Phase for that turn ends immediately.", "atk": 0, "card_type": "monster", "property": null, "type": "Spellcaster / Effect", "def": 100}
+{"status": false, "code": "93788854", "name": "The wandering doomed"}
+{"status": true, "code": "06285791", "name": "The Wicked Worm Beast", "family": "earth", "level": 3, "text": "This face-up card on the field is returned to the owner's hand during the End Phase of your turn.", "atk": 1400, "card_type": "monster", "property": null, "type": "Beast / Effect", "def": 700}
+{"status": true, "code": "78423643", "name": "Three-Headed Geedo", "family": "dark", "level": 4, "text": "A three-headed nocturnal monster that is absolutely ruthless when fighting.", "atk": 1200, "card_type": "monster", "property": null, "type": "Fiend", "def": 1400}
+{"status": true, "code": "33734439", "name": "Three-Legged Zombies", "family": "dark", "level": 3, "text": "A pair of friendly skeletons, lean and fat, that travel with extreme difficulty.", "atk": 1100, "card_type": "monster", "property": null, "type": "Zombie", "def": 800}
+{"status": true, "code": "31786629", "name": "Thunder Dragon", "family": "light", "level": 5, "text": "You can discard this card to add up to 2 \"Thunder Dragons\" from your Deck to your hand.", "atk": 1600, "card_type": "monster", "property": null, "type": "Thunder / Effect", "def": 1500}
+{"status": true, "code": "49791927", "name": "Tiger Axe", "family": "earth", "level": 4, "text": "A fast and powerful axe-wielding beast-warrior.", "atk": 1300, "card_type": "monster", "property": null, "type": "Beast-Warrior", "def": 1100}
+{"status": true, "code": "80987696", "name": "Time Machine", "family": null, "level": null, "text": "When exactly 1 monster is destroyed by battle and sent to the Graveyard: Special Summon that monster to the same side of the field it was on, in the same battle position it was in when destroyed.", "atk": null, "card_type": "trap", "property": "Normal", "type": null, "def": null}
+{"status": true, "code": "35316708", "name": "Time Seal", "family": null, "level": null, "text": "Skip the Draw Phase of your opponent's next turn.", "atk": null, "card_type": "trap", "property": "Normal", "type": null, "def": null}
+{"status": true, "code": "71625222", "name": "Time Wizard", "family": "light", "level": 2, "text": "Once per turn: You can toss a coin and call it. If you call it right, destroy all monsters your opponent controls. If you call it wrong, destroy as many monsters you control as possible, and if you do, you take damage equal to half the total ATK those destroyed monsters had on the field.", "atk": 500, "card_type": "monster", "property": null, "type": "Spellcaster / Effect", "def": 400}
+{"status": false, "code": "62671448", "name": "Toad master"}
+{"status": false, "code": "33878931", "name": "Togex"}
+{"status": true, "code": "59383041", "name": "Toon Alligator", "family": "water", "level": 4, "text": "An alligator monster straight from the cartoons.", "atk": 800, "card_type": "monster", "property": null, "type": "Reptile", "def": 1600}
+{"status": true, "code": "65459848", "name": "Toon Mermaid", "family": "water", "level": 4, "text": "Cannot be Normal Summoned/Set. Cannot be Special Summoned unless you control a face-up \"Toon World\". Must first be Special Summoned (from your hand) by Tributing the same number of monsters needed for a Tribute Summon (normally 0). This card cannot attack the turn it is Special Summoned. You must pay 500 Life Points to declare an attack with this monster. If \"Toon World\" on the field is destroyed, destroy this card. This card can attack your opponent directly, unless they control a Toon Monster. If they do control one, this card must target a Toon Monster for its attacks.", "atk": 1400, "card_type": "monster", "property": null, "type": "Aqua / Toon", "def": 1500}
+{"status": true, "code": "91842653", "name": "Toon Summoned Skull", "family": "dark", "level": 6, "text": "(This card is always treated as an \"Archfiend\" card.)\n\nCannot be Normal Summoned/Set. Cannot be Special Summoned unless you control \"Toon World\". Must first be Special Summoned (from your hand) by Tributing the same number of monsters needed for a Tribute Summon (normally 1). This card cannot attack the turn it is Special Summoned. You must pay 500 Life Points to declare an attack with this monster. If \"Toon World\" on the field is destroyed, destroy this card. This card can attack your opponent directly, unless they control a Toon Monster. If they do control one, this card must target a Toon Monster for its attacks.", "atk": 2500, "card_type": "monster", "property": null, "type": "Fiend / Toon", "def": 1200}
+{"status": true, "code": "15259703", "name": "Toon World", "family": null, "level": null, "text": "Activate this card by paying 1000 LP.", "atk": null, "card_type": "spell", "property": "Continuous", "type": null, "def": null}
+{"status": false, "code": "80813021", "name": "Torike"}
+{"status": true, "code": "75372290", "name": "Total Defense Shogun", "family": "dark", "level": 6, "text": "This card is changed to Defense Position when it is Normal Summoned or Flip Summoned successfully. This card can attack while it is in Defense Position. If this card attacks while in Defense Position, apply the ATK of this card for damage calculation.", "atk": 1550, "card_type": "monster", "property": null, "type": "Warrior / Effect", "def": 2500}
+{"status": false, "code": "77827521", "name": "Trail of nightmare"}
+{"status": false, "code": "42348802", "name": "Trakadon"}
+{"status": true, "code": "04206964", "name": "Trap Hole", "family": null, "level": null, "text": "When your opponent Normal or Flip Summons 1 monster with 1000 or more ATK: Target that monster; destroy that target.", "atk": null, "card_type": "trap", "property": "Normal", "type": null, "def": null}
+{"status": true, "code": "46461247", "name": "Trap Master", "family": "earth", "level": 3, "text": "FLIP: Select 1 Trap Card on the field and destroy it. If the selected card is Set, pick up and see the card. If it is a Trap Card, it is destroyed. If it is a Spell Card, return it to its original position.", "atk": 500, "card_type": "monster", "property": null, "type": "Warrior / Effect", "def": 1100}
+{"status": false, "code": "79759861", "name": "Tribute to the doomed"}
+{"status": true, "code": "45042329", "name": "Tripwire Beast", "family": "earth", "level": 4, "text": "This creature attacks with electromagnetic waves.", "atk": 1200, "card_type": "monster", "property": null, "type": "Thunder", "def": 1300}
+{"status": false, "code": "17441953", "name": "Turtle Raccoon"}
+{"status": false, "code": "60589682", "name": "Twin Long Rods #1"}
+{"status": true, "code": "29692206", "name": "Twin Long Rods 2", "family": "water", "level": 3, "text": "An amphibious creature with two whip-like tails.", "atk": 850, "card_type": "monster", "property": null, "type": "Aqua", "def": 700}
+{"status": true, "code": "78984772", "name": "Twin-Headed Fire Dragon", "family": "fire", "level": 6, "text": "Two dragons fused as one from the effects of the Big Bang.", "atk": 2200, "card_type": "monster", "property": null, "type": "Pyro", "def": 1700}
+{"status": true, "code": "54752875", "name": "Twin-Headed Thunder Dragon", "family": "light", "level": 7, "text": "\"Thunder Dragon\" + \"Thunder Dragon\"", "atk": 2800, "card_type": "monster", "property": null, "type": "Thunder / Fusion", "def": 2100}
+{"status": true, "code": "57305373", "name": "Two-Mouth Darkruler", "family": "earth", "level": 3, "text": "A dinosaur with two deadly jaws, it stores electricity in its horn and releases high voltage bolts from the mouth on its back.", "atk": 900, "card_type": "monster", "property": null, "type": "Dinosaur", "def": 700}
+{"status": true, "code": "83887306", "name": "Two-Pronged Attack", "family": null, "level": null, "text": "Select and destroy 2 of your monsters and 1 of your opponent's monsters.", "atk": null, "card_type": "trap", "property": "Normal", "type": null, "def": null}
+{"status": false, "code": "97360116", "name": "Unknown warrior of fiend"}
+{"status": true, "code": "70368879", "name": "Upstart Goblin", "family": null, "level": null, "text": "Draw 1 card, then your opponent gains 1000 Life Points.", "atk": null, "card_type": "spell", "property": "Normal", "type": null, "def": null}
+{"status": true, "code": "48649353", "name": "Ushi Oni", "family": "dark", "level": 6, "text": "A bull fiend restored by the dark arts, this monster appears out of a jar.", "atk": 2150, "card_type": "monster", "property": null, "type": "Fiend", "def": 1950}
+{"status": false, "code": "75347539", "name": "Valkyrion the Magna Warrior Card"}
+{"status": true, "code": "35752363", "name": "Vermillion Sparrow", "family": "fire", "level": 5, "text": "\"Rhaimundos of the Red Sword\" + \"Fireyarou\"", "atk": 1900, "card_type": "monster", "property": null, "type": "Pyro / Fusion", "def": 1500}
+{"status": false, "code": "50259460", "name": "Versago the destroyer"}
+{"status": true, "code": "39774685", "name": "Vile Germs", "family": null, "level": null, "text": "A Plant-Type monster equipped with this card increases its ATK and DEF by 300 points.", "atk": null, "card_type": "spell", "property": "Equip", "type": null, "def": null}
+{"status": true, "code": "94042337", "name": "Violent Rain", "family": "water", "level": 4, "text": "This monster can call forth sudden torrents of battering rain.", "atk": 1550, "card_type": "monster", "property": null, "type": "Aqua", "def": 800}
+{"status": true, "code": "15052462", "name": "Violet Crystal", "family": null, "level": null, "text": "A Zombie-Type monster equipped with this card increases its ATK and DEF by 300 points.", "atk": null, "card_type": "spell", "property": "Equip", "type": null, "def": null}
+{"status": false, "code": "78556320", "name": "Vishwar randi"}
+{"status": true, "code": "14898066", "name": "Vorse Raider", "family": "dark", "level": 4, "text": "This wicked Beast-Warrior does every horrid thing imaginable, and loves it! His axe bears the marks of his countless victims.", "atk": 1900, "card_type": "monster", "property": null, "type": "Beast-Warrior", "def": 1200}
+{"status": false, "code": "13945238", "name": "Wall of illusion"}
+{"status": true, "code": "90873992", "name": "Warrior Elimination", "family": null, "level": null, "text": "Destroy all face-up Warrior-Type monsters on the field.", "atk": null, "card_type": "spell", "property": "Normal", "type": null, "def": null}
+{"status": false, "code": "56413937", "name": "Warrior of tradition"}
+{"status": false, "code": "03732747", "name": "Water element"}
+{"status": false, "code": "55014050", "name": "Water girl"}
+{"status": true, "code": "93343894", "name": "Water Magician", "family": "water", "level": 4, "text": "This monster swamps an opponent with an almost endless supply of water.", "atk": 1400, "card_type": "monster", "property": null, "type": "Aqua", "def": 1000}
+{"status": false, "code": "66836598", "name": "Waterdragon fairy"}
+{"status": false, "code": "37243151", "name": "Weather control"}
+{"status": true, "code": "72053645", "name": "Weather Report", "family": "water", "level": 4, "text": "FLIP: Destroys all of your opponent's face-up \"Swords of Revealing Light\" on the field. If \"Swords of Revealing Light\" is destroyed, you can perform your Battle Phase twice this turn (or your next turn, if activated during opponent's turn).", "atk": 950, "card_type": "monster", "property": null, "type": "Aqua / Effect", "def": 1500}
+{"status": true, "code": "91996584", "name": "Whiptail Crow", "family": "dark", "level": 4, "text": "Attacks from the skies with a whip-like tail.", "atk": 1650, "card_type": "monster", "property": null, "type": "Fiend", "def": 1600}
+{"status": false, "code": "92409659", "name": "White Dolphin"}
+{"status": true, "code": "43487744", "name": "White Hole", "family": null, "level": null, "text": "Activate only when your opponent activates \"Dark Hole\". The monsters you control are not destroyed.", "atk": null, "card_type": "trap", "property": "Normal", "type": null, "def": null}
+{"status": true, "code": "15150365", "name": "White Magical Hat", "family": "light", "level": 3, "text": "When this card inflicts Battle Damage to your opponent's Life Points, your opponent discards 1 card randomly from his/her hand.", "atk": 1000, "card_type": "monster", "property": null, "type": "Spellcaster / Effect", "def": 700}
+{"status": false, "code": "15150371", "name": "Wicked mirror"}
+{"status": true, "code": "77754944", "name": "Widespread Ruin", "family": null, "level": null, "text": "When an opponent's monster declares an attack: Destroy the Attack Position monster your opponent controls with the highest ATK (your choice, if tied).", "atk": null, "card_type": "trap", "property": "Normal", "type": null, "def": null}
+{"status": false, "code": "59744639", "name": "Windstorm of etaqua"}
+{"status": false, "code": "47319141", "name": "Wing Eagle"}
+{"status": false, "code": "98582704", "name": "Wing egg elf"}
+{"status": false, "code": "39175982", "name": "Winged cleaver"}
+{"status": false, "code": "87796900", "name": "Winged dragon, guardian of the fortress"}
+{"status": false, "code": "42418084", "name": "Winged Egg of New Life"}
+{"status": false, "code": "92944626", "name": "Wings of wicked flame"}
+{"status": false, "code": "78010363", "name": "Witch of the black forest"}
+{"status": false, "code": "80741828", "name": "Witch's apprentice"}
+{"status": true, "code": "36304921", "name": "Witty Phantom", "family": "dark", "level": 4, "text": "Dressed in a night-black tuxedo, this creature presides over the darkness.", "atk": 1400, "card_type": "monster", "property": null, "type": "Fiend", "def": 1300}
+{"status": false, "code": "42883273", "name": "Wodan the resident of the forest"}
+{"status": false, "code": "17511156", "name": "Wood Clown"}
+{"status": false, "code": "17733394", "name": "Wood remains"}
+{"status": true, "code": "69750536", "name": "Wow Warrior", "family": "water", "level": 4, "text": "A fish with arms, legs, and some very sharp teeth.", "atk": 1250, "card_type": "monster", "property": null, "type": "Fish", "def": 900}
+{"status": false, "code": "17238333", "name": "Wretched ghost of the attic"}
+{"status": true, "code": "29380133", "name": "Yado Karu", "family": "water", "level": 4, "text": "When this card is changed from Attack Position to Defense Position, you can place any number of cards from your hand at the bottom of your Deck in any order you desire.", "atk": 900, "card_type": "monster", "property": null, "type": "Aqua / Effect", "def": 1700}
+{"status": false, "code": "10315429", "name": "Yaiba robo"}
+{"status": false, "code": "76704943", "name": "Yamatano dragon scroll"}
+{"status": false, "code": "41061625", "name": "Yashinoki"}
+{"status": false, "code": "17115745", "name": "Yormungarde"}
+{"status": false, "code": "30090452", "name": "Zanki"}
+{"status": false, "code": "10598400", "name": "Zarigun"}
+{"status": true, "code": "31339260", "name": "Zombie Warrior", "family": "dark", "level": 3, "text": "\"Skull Servant\" + \"Battle Warrior\"", "atk": 1200, "card_type": "monster", "property": null, "type": "Zombie / Fusion", "def": 900}
+{"status": false, "code": "88472456", "name": "Zombyra"}
+{"status": true, "code": "86100785", "name": "Zone Eater", "family": "water", "level": 1, "text": "A monster attacked by this card will be destroyed during the End Phase of the 5th turn after the attack.", "atk": 250, "card_type": "monster", "property": null, "type": "Aqua / Effect", "def": 200}
