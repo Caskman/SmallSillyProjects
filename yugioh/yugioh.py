@@ -122,7 +122,93 @@ def merge_retries():
 
 	write_card_objects('cardlist_objects.txt', main_cards)
 
-# rewrite_data()
-merge_retries()
+def print_monster(c):
+	s = """================================================================================
+# %s %d %d %d %s %s
+	- %s""" % (c['name'], c['level'], c['atk'], c['def'], c['type'], c['code'], c['text'])
+	print s
 
-# print json.loads(get_card_data('Trap Hole'))
+def print_spell_trap_card(c):
+	s = """================================================================================
+# %s %s %s
+	- %s""" % (c['name'], c['property'], c['code'], c['text'])
+	print s
+
+def sample_cards(cards, top=10):
+	for i in range(top):
+		if i >= len(cards):
+			break
+		c = cards[i]
+		if c['card_type'] == 'monster':
+			print_monster(c)
+		elif c['card_type'] in ['trap', 'spell']:
+			print_spell_trap_card(c)
+
+def get_valid_card_list():
+	cards = read_card_objects('cardlist_objects.txt')
+	cards = filter(lambda x: x['status'], cards)
+	return cards
+
+def atk_def_cmp(a, b):
+	if a['atk'] == b['atk']:
+		return b['def'] - a['def']
+	else:
+		return b['atk'] - a['atk']
+
+def get_best_level_four():
+	cards = get_valid_card_list()
+
+	# get best level four cards 
+	level_four = filter(lambda x: x['card_type'] == 'monster' and x['level'] <= 4, cards)
+	# level_four = filter(lambda x: 'Effect' not in x['type'], level_four)
+	level_four = sorted(level_four, cmp=atk_def_cmp)
+
+	sample_cards(level_four, 20)
+
+def filter_type(cards, type):
+	return filter(lambda x: type not in x['type'], cards)
+
+def sort_prop_first(type):
+	def prop_cmp(a, b):
+		if a['property'] == b['property']:
+			return 0
+		elif a['property'] == type:
+			return -1
+		else:
+			return 1
+	return prop_cmp
+
+def get_best_one_tribute_cards():
+	cards = get_valid_card_list()
+
+	cards = filter(lambda x: x['card_type'] == 'monster' and x['level'] in [5,6], cards)
+	cards = filter_type(cards, 'Fusion')
+	cards = filter_type(cards, 'Toon')
+	cards = sorted(cards, cmp=atk_def_cmp)
+
+	sample_cards(cards)
+
+def get_trap_cards():
+	cards = get_valid_card_list()
+
+	cards = filter(lambda x: x['card_type'] == 'trap', cards)
+	cards = sorted(cards, cmp=sort_prop_first('Continuous'))
+	sample_cards(cards, 20)
+
+def get_spell_cards():
+	cards = get_valid_card_list()
+
+	cards = filter(lambda x: x['card_type'] == 'spell', cards)
+	cards = sorted(cards, cmp=sort_prop_first('Ritual'))
+	sample_cards(cards)
+
+	# types = set(map(lambda x: x['property'], cards))
+	# print types
+
+
+# get_best_level_four()
+# get_best_one_tribute_cards()
+# get_trap_cards()
+get_spell_cards()
+
+
